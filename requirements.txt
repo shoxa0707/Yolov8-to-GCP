@@ -1,0 +1,4 @@
+streamlit
+onnx
+onnxruntime
+opencv-python
