@@ -88,7 +88,7 @@ Result of the project is as follows:
 
 <img src="images/onnxGCP.gif">
 
-Also you can use this [link](https://onnxwithcpu-395809.uw.r.appspot.com) directly.
+Also you can use this [link](https://onnx-396809.uw.r.appspot.com/) directly.
 
 ## 🔧 Dependencies and Installation
 
